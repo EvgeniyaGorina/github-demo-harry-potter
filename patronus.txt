@@ -25,7 +25,7 @@ HARRY'S PATRONUS
            |_||_|           |_|   |_|
           /_//_/           /_/   /_/
 
-SNAPE'S PATRONUS
+LILY'S PATRONUS
                    .     _,
                    |`\__/ /
                    \  . .(
@@ -41,3 +41,4 @@ SNAPE'S PATRONUS
      ||  \\       |||
      )\   )\      )||
      `"   `"      `""
+
