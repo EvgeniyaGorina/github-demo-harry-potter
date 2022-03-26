@@ -24,6 +24,7 @@ HARRY'S PATRONUS
            | || |           | |   | |
            |_||_|           |_|   |_|
           /_//_/           /_/   /_/
+<<<<<<< HEAD
 HARRY'S PATRONUS
 
    /|       |\
@@ -50,6 +51,8 @@ HARRY'S PATRONUS
            | || |           | |   | |
            |_||_|           |_|   |_|
           /_//_/           /_/   /_/
+=======
+>>>>>>> master
 
 LILY'S PATRONUS
                    .     _,
@@ -67,6 +70,7 @@ LILY'S PATRONUS
      ||  \\       |||
      )\   )\      )||
      `"   `"      `""
+<<<<<<< HEAD
 LILY'S PATRONUS
                    .     _,
                    |`\__/ /
@@ -85,4 +89,6 @@ LILY'S PATRONUS
      `"   `"      `""
 
 
+=======
+>>>>>>> master
 
