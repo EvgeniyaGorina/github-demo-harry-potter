@@ -26,7 +26,10 @@ HARRY'S PATRONUS
           /_//_/           /_/   /_/
 <<<<<<< HEAD
 HARRY'S PATRONUS
- Make a commit commit commit commit commit commit commit 
+ Make aHARRY'S PATRONUS
+ Make a commit commit commit commit commit commit commit HARRY'S PATRONUS
+ Make a commit commit commit commit commit commit commit HARRY'S PATRONUS
+ Make a commit commit commit commit commit commit commit  commit commit commit commit commit commit commit 
    /|       |\
 `__\\       //__'
    ||      ||
